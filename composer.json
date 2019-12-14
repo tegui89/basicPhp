@@ -1,0 +1,13 @@
+{
+    "name": "tegui/firstproject",
+    "description": "Este es un projecto basico de php, instalando composer y viendo algunas dependencias",
+    "require": {
+        "illuminate/database": "^6.7"
+    },
+    "authors": [
+        {
+            "name": "Matias Gallastegui",
+            "email": "matiasgallastegui89@gmail.com"
+        }
+    ]
+}
